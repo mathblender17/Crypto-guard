@@ -15,10 +15,20 @@ Traditional communication methods are susceptible to eavesdropping and unauthori
 In Today’s day and age where data has become a commodity and internet a basic need , maintaining your privacy intact is becoming harder and harder. The same applies to commercial as well as government sector as the data the have is even so sensitive that if in wrong hands will surely create havoc.
 
 
-## Project Objectives
+## Project Objectives :
 
 * Develop secure communication infracture
 * Implementation of two key cipher system
 * Educate users on secure practices on message passing and data transfer
 * Enhance user privacy
+
+
+## Prerequisites
+
+- **Python Installed:** Make sure you have Python installed on your machine. You can download Python from the [official Python website](https://www.python.org/).
+
+- **Required Python Libraries:** Install the necessary libraries using the following command:
+
+  ```bash
+  pip install cryptography tkinter
 
