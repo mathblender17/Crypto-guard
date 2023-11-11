@@ -1,4 +1,4 @@
-# Crypto-guard
+# Crypto-guard-chat-APP
 Secure communication using asymmetric key and ciphertext
 
 
