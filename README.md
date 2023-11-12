@@ -39,6 +39,8 @@ In Today’s day and age where data has become a commodity and the internet a ba
  
   ## Results
 
-  *Frontend:![WhatsApp Image 2023-11-05 at 6 40 54 PM](https://github.com/mathblender17/Crypto-guard/assets/114827353/8265970a-2274-4394-b6e2-67992305e27b)
+  *Frontend:  ![WhatsApp Image 2023-11-05 at 6 39 51 PM](https://github.com/mathblender17/Crypto-guard/assets/114827353/06c7da15-8d0d-4d6c-8f41-b44704a952d8)
 
-  *Bckend(sqlite3):![WhatsApp Image 2023-11-05 at 6 39 51 PM](https://github.com/mathblender17/Crypto-guard/assets/114827353/06c7da15-8d0d-4d6c-8f41-b44704a952d8)
+
+  *Bckend(sqlite3):![WhatsApp Image 2023-11-05 at 6 40 54 PM](https://github.com/mathblender17/Crypto-guard/assets/114827353/8265970a-2274-4394-b6e2-67992305e27b)
+
