@@ -11,15 +11,15 @@ Overall this project aims to provide secure message passing.
 
 ## Problem statement :
 
-Traditional communication methods are susceptible to eavesdropping and unauthorized access, leading to a need for a secure chatting system that is truly private and thus protect messages during transmission.
-In Today’s day and age where data has become a commodity and internet a basic need , maintaining your privacy intact is becoming harder and harder. The same applies to commercial as well as government sector as the data the have is even so sensitive that if in wrong hands will surely create havoc.
+Traditional communication methods are susceptible to eavesdropping and unauthorized access, leading to a need for a secure chatting system that is truly private and thus protects messages during transmission.
+In Today’s day and age where data has become a commodity and the internet a basic need, maintaining your privacy intact is becoming harder and harder. The same applies to the commercial as well as government sectors as the data they have is even so sensitive that if in the wrong hands will surely create havoc.
 
 
 ## Project Objectives :
 
-* Develop secure communication infracture
+* Develop secure communication infrastructure
 * Implementation of two key cipher system
-* Educate users on secure practices on message passing and data transfer
+* Educate users on secure practices for message passing and data transfer
 * Enhance user privacy
 
 
@@ -30,5 +30,15 @@ In Today’s day and age where data has become a commodity and internet a basic 
 - **Required Python Libraries:** Install the necessary libraries using the following command:
 
   ```bash
-  pip install cryptography tkinter
+  pip install cryptography tk
+   ```
+  ```bash
+  pip install sqlite3
+   ```
+  - **Install DB browser** For ease of access and readability [DB browser for sqlite3](https://sqlitebrowser.org/) is used.
+ 
+  ## Results
 
+  *Frontend:![WhatsApp Image 2023-11-05 at 6 40 54 PM](https://github.com/mathblender17/Crypto-guard/assets/114827353/8265970a-2274-4394-b6e2-67992305e27b)
+
+  *Bckend(sqlite3):![WhatsApp Image 2023-11-05 at 6 39 51 PM](https://github.com/mathblender17/Crypto-guard/assets/114827353/06c7da15-8d0d-4d6c-8f41-b44704a952d8)
